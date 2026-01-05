@@ -1,0 +1,8 @@
+{
+  "name": "EduFace Connect",
+  "description": "Wi-Fi based Face Recognition Attendance & Marks Management System",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
